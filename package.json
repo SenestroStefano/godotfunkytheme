@@ -1,0 +1,21 @@
+{
+  "name": "godotfunkytheme",
+  "displayName": "GodotFunkyTheme",
+  "description": "An alternative godot theme made for VS CODE!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Senex",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Senex-color-theme.json"
+      }
+    ]
+  }
+}
