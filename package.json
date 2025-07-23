@@ -3,7 +3,7 @@
   "publisher": "FunkyGodotTheme",
   "displayName": "GodotFunkyTheme",
   "description": "An alternative godot theme made for VS CODE!",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.102.0"
   },
